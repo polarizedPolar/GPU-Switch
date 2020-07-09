@@ -4,6 +4,12 @@ GPU Switch is a well-designed Mac OS Application, provides a easy way for users 
 
 
 
+# Download
+
+You can download from [Here](https://raw.githubusercontent.com/polarizedPolar/GPU-Switch/master/GPU%20Switch.zip).
+
+
+
 # Safety Matters
 
 GPU Switch:
