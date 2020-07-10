@@ -23,7 +23,7 @@ Simple & Perfect,
 
 To make sure it looks like part of the OS.
 
-# How To Use
+# Usage
 
 Moving application to 'Application' folder is recommended.
 
@@ -37,7 +37,7 @@ To arrange the status bar, hold command key and drag. *
 
 
 
-# How To Remove
+# Uninstall
 
 Simply delete the application file, and done.
 
